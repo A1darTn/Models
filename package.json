@@ -4,7 +4,6 @@
   "description": "",
   "license": "ISC",
   "author": "aidar",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
